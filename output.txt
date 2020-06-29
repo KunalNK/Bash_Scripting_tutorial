@@ -1,0 +1,8 @@
+total 12
+4 -rw-rw-r-- 1 kunal kunal  198 Jun 27 22:49 hello.sh
+0 -rw-rw-r-- 1 kunal kunal    0 Jun 29 20:06 output.txt
+4 drw-r--r-- 2 kunal kunal 4096 Jun 29 20:00 test
+0 --w------- 1 kunal kunal    0 Jun 29 19:57 test1.txt
+0 ---x------ 1 kunal kunal    0 Jun 29 20:04 test2.txt
+0 -r--r----- 1 kunal kunal    0 Jun 29 19:55 test.txt
+4 -rw-rw-r-- 1 kunal kunal   40 Jun 27 22:44 variable.sh
