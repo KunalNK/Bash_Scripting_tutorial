@@ -1,0 +1,5 @@
+ 10:49:45 up  1:12,  1 user,  load average: 0.86, 0.71, 0.73
+uid=1000(kunal) gid=1000(kunal) groups=1000(kunal),4(adm),24(cdrom),27(sudo),30(dip),46(plugdev),120(lpadmin),131(lxd),132(sambashare)
+kunal
+/home/kunal/Bash_Scripting_tutorial
+Linux kunal 5.4.0-37-generic #41-Ubuntu SMP Wed Jun 3 18:57:02 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux
