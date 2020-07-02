@@ -1,5 +1,5 @@
 #!/bin/bash
-echo -n "Enter the user:" 
+echo -n "Enter the username:" 
 read user
 
 if [ "$user" == "$USER" ]
