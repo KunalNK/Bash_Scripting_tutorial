@@ -1,0 +1,4 @@
+    1  clear
+    2  mkdir slide2.3
+    3  chmod 644 slide2.3
+    4  history | less > slide2.3_out
