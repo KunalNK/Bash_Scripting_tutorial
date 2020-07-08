@@ -1,0 +1,13 @@
+    1  clear
+    2  ls /var/lib
+    3  cd
+    4  cd /var/log
+    5  cat syslog
+    6  cd
+    7  touch kunal
+    8  mv kunal myname
+    9  rm -rf myname 
+   10  cd /etc/
+   11  ls -l | wc -l
+   12  cd
+   13  history | less > slide1.txt
