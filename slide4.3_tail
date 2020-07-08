@@ -1,0 +1,10 @@
+whoopsie:x:125:
+colord:x:126:
+geoclue:x:127:
+pulse:x:128:
+pulse-access:x:129:
+gdm:x:130:
+lxd:x:131:kunal
+kunal:x:1000:
+sambashare:x:132:kunal
+systemd-coredump:x:999:
